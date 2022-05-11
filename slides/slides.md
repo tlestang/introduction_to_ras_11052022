@@ -9,7 +9,7 @@ A new role in the department
 
 - Develop CFD software (xcompact3d, nektar++, pyFR).
 - Provide software engineering expertise.
-- Promote software develpement best practices.
+- Promote software development best practices.
 - Deliver workshop/training courses.
 
 #### GPU support for xcompact3d
@@ -20,13 +20,13 @@ A new role in the department
 
 First step: infrastructure overhaul
 
-- Automated software tests
-- Continuous Integration (GitHub actions)
-- Portable compilation process
+- Automated software tests.
+- Continuous Integration (GitHub actions).
+- Portable compilation process.
 
 #### things I can help you with {background-color="green"}
 - Code review, code organisation.
-- Documentation, sortware testing.
+- Documentation, software testing.
 - Version control (Git).
 - Packaging and distribution, code reuse.
 - Data analysis workflows, reproducibility.
@@ -46,7 +46,7 @@ First step: infrastructure overhaul
 #### About me
 - Studied Physics at Université Paris-Saclay and ENS Lyon.
 - PhD in computational physics (Lattice Boltzmann + rare event sampling algorithms).
-- Permformance engineer at HPC center Stuttart 
+- Permformance engineer at HPC center Stuttart.
 - RSE in the Oxford Research Software Engineering group.
 
 Physicist turned RSE.
