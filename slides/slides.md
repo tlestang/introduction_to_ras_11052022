@@ -1,7 +1,7 @@
 #### {background-color="black"}
 #### Research Software Engineer?
 
-![](img/rse_spectrum.png "A caption?")
+![](img/rse_spectrum.png "A caption?"){width=70%}
 
 A new role in the department
 
