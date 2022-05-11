@@ -33,6 +33,14 @@ First step: infrastructure overhaul
 - Development environments (e.g. text editors).
 - General programming advice/questions.
 
+#### Contact
+
+t.lestang@imperial.ac.uk
+
+Room 420, glass office on the right
+
+In Mondays, Wednesdays (Fridays)
+
 #### I don't know (much) about {background-color="#C72A3D"}
 - Configuring printers
 - Recovering passwords
