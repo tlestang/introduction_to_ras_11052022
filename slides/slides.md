@@ -30,7 +30,7 @@ First step: infrastructure overhaul
 - Version control (Git).
 - Packaging and distribution, code reuse.
 - Data analysis workflows, reproducibility.
-- Development environments (e.g. text editors).
+- Development environments (e.g. text editors/IDEs).
 - General programming advice/questions.
 
 #### Contact
@@ -54,7 +54,7 @@ In Mondays, Wednesdays (Fridays)
 #### About me
 - Studied Physics at Université Paris-Saclay and ENS Lyon.
 - PhD in computational physics (Lattice Boltzmann + rare event sampling algorithms).
-- Permformance engineer at HPC center Stuttart.
+- Performance engineer at HPC center Stuttart.
 - RSE in the Oxford Research Software Engineering group.
 
 Physicist turned RSE.
@@ -65,5 +65,5 @@ Physicist turned RSE.
 
 - Questions.
 - Things you would like to learn about.
-- generale software -related issues you've been having.
+- General software-related issues you've been having.
 - Things you are interested in at the moment.
